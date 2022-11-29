@@ -1,0 +1,3 @@
+클라이언트 접속 주소 : http://secured-chat.islab.work:8080/chat
+
+메세지 모니터링 주소 : http://secured-chat.islab.work:8080/monitor
